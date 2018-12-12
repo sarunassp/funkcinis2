@@ -8,4 +8,4 @@ module Main (main) where
 
   
   main :: IO [Char]
-  main = A.mainA "http://battleship.haskell.lt/game/js531/player/A"
+  main = A.mainA "http://battleship.haskell.lt/game/testinskis00500ccaac/player/A"
